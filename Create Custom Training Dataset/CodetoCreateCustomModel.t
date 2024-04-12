@@ -63,8 +63,8 @@ names: ["Mouse"]
 
 13. Run YOLO Custom Model on New Videos with Labeled Predictions
 
-` yolo task=detect mode=predict model=OFT_Model.pt show=True conf=0.5 save_txt=True source= 220230904_Mouse_196_OFT_720p_30fps.mp4 `
+` yolo task=detect mode=predict model=best.pt show=True conf=0.5 save_txt=True source= path_to_.mp4 `
 
 14. Run YOLO Custom Model on New Videos without Labels and Confidences Printed on the Video
 
-` yolo task=detect mode=predict model=best.pt show=True conf=0.5 save_txt=True source= 0230904_OFT_Mouse_64_720p_30fps.mp4 hide_labels=True hide_conf=True" `
+` yolo task=detect mode=predict model=best.pt show=True conf=0.5 save_txt=True source= path_to_.mp4 hide_labels=True hide_conf=True" `
