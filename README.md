@@ -1,6 +1,10 @@
 [![DOI](https://zenodo.org/badge/785527342.svg)](https://zenodo.org/doi/10.5281/zenodo.10967360)
 
+## Youtube Video Tutorial:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zSkR0gA9sXk/0.jpg)](https://www.youtube.com/watch?v=zSkR0gA9sXk)
+
 # YOLOv8_CustomModel_Open-Field-Analysis
+
 
 This project utilizes the YoloV8 object detection model to analyze the distance, speed, and time of objects in video frames. The code snippets provided as Jupyter Script perform various tasks to process and visualize the data extracted from the model's output.
 
