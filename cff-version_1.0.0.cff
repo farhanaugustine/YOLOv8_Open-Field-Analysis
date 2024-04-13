@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Augustine"
+  given-names: "Farhan"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Bot"
+  given-names: "Hew"
+  orcid: "https://orcid.org/0000-0002-8348-6039"
+title: "YOLOv8_Open-Field-Analysis"
+version: 2
+doi: 10.5281/zenodo.10967361
+date-released: 2024-04-12
+url: "https://github.com/farhanaugustine/YOLOv8_Open-Field-Analysis"
